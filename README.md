@@ -9,3 +9,6 @@ Add to Chrome Snippets and run it
 
 
 #### Enjoy~
+
+
+[Buy me a coffee :coffee:](https://saweria.co/jeddenkah)
