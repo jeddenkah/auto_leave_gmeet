@@ -1,5 +1,5 @@
 ## How to
-Copy Paste into console and run it
+Copy Paste the codes into console and run it
 
 or
 
