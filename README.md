@@ -11,4 +11,5 @@ Add to Chrome Snippets and run it
 #### Enjoy~
 
 
-[Buy me a coffee :coffee:](https://saweria.co/jeddenkah)
+___
+<a href="https://saweria.co/jeddenkah" target="_blank">Buy me a coffee :coffee:</a>
